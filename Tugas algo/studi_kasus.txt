@@ -1,0 +1,7 @@
+Studi Kasus:
+Misalkan kita memiliki masalah tentang pengelolaan inventaris di sebuah toko pakaian
+Deskripsi Masalah: Toko pakaian ingin mengelola inventaris mereka dengan lebih efisien.
+Masukan (Input): Informasi tentang barang-barang yang tersedia, seperti nama barang, harga, dan jumlah stok.
+Keluaran (Output): Berbagai operasi yang dapat dilakukan pada inventaris, seperti menambah stok, menghapus barang, dan melihat daftar barang.
+Masalah Utama: Bagaimana mengelola inventaris agar terorganisir dengan baik dan memungkinkan operasi yang mudah dilakukan?
+
